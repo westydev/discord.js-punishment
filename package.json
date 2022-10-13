@@ -1,0 +1,17 @@
+{
+  "name": "moderation-core",
+  "version": "1.0.0",
+  "description": "V14 Moderation Core System.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "author": "Westy",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord-api-types": "^0.37.2",
+    "discord.js": "^14.2.0",
+    "moment": "^2.29.4",
+    "mongoose": "^6.6.1"
+  }
+}
